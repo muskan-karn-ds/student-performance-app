@@ -3,4 +3,4 @@ pandas
 numpy
 matplotlib
 joblib
-scikit-learn==1.9.0k48*9
+scikit-learn==1.9.0
